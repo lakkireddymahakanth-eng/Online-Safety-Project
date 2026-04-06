@@ -126,7 +126,7 @@ online-safety-project/
 python -m venv venv
 ```
 
-### 2. Activate environment
+### 2. Activate Environment 
 
 ```bash
 venv\Scripts\activate   # Windows
