@@ -226,7 +226,7 @@ outputs/
 
 ## 👤 Author
 
-**Your Name**
+Mahakanth sai reddy Lakkireddy
 
 * Data Science | AI Policy | Governance Analysis
 
